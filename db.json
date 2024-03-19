@@ -3,7 +3,7 @@
 		{
 			"id": 1,
 			"name": "MyApp",
-			"version": "1.0.1",
+			"version": "1.0.2",
 			"latest": true,
 			"url": "https://github.com/gugeorgy/next-portfolio/blob/main/public/assets/images/logo.jpg?raw=true",
 			"updateInfo": "Initial release",
