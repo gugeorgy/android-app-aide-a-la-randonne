@@ -3,7 +3,7 @@
 		{
 			"id": 1,
 			"name": "MyApp",
-			"version": "1.0.2",
+			"version": "1.0.1",
 			"latest": true,
 			"url": "https://raw.githubusercontent.com/gugeorgy/android-app-aide-a-la-randonne/main/1.0.1.apk",
 			"updateInfo": "Initial release",
